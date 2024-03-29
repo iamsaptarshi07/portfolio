@@ -1,7 +1,7 @@
 
 # DIGITAL CV
 
-This is a personal digital portfolio build using streamlit and python with little bit css. This also includes Git workflows for basic CI/CD to be deeployed on Render.
+This is a personal digital portfolio build using streamlit and python with little bit css. This also includes Git workflows for basic CI/CD to be deployed on Render.
 
 
 ## Tech Stack
