@@ -14,3 +14,4 @@ This is a personal digital portfolio build using streamlit and python with littl
 ## Screenshots
 ![Screenshot from 2024-03-29 06-04-49](https://github.com/iamsaptarshi07/portfolio/assets/52109778/b639990e-8c37-4242-9585-8e32ba4ae20a)
 
+![Screenshot from 2024-03-29 06-04-49](https://github.com/iamsaptarshi07/portfolio/assets/52109778/7783dc2e-08f0-46ca-a409-a1686d7718ad)
