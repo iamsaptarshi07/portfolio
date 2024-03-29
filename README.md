@@ -6,7 +6,7 @@ This is a personal digital portfolio build using streamlit and python with littl
 
 ## Tech Stack
 
-**Language:** Python, Streamlit, Pillow, CSS
+**Tech:** Python, Streamlit, Pillow, CSS
 
 **Cloud:** Render
 
