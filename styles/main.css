@@ -8,6 +8,11 @@ a {
     text-decoration: none;
     color: white !important;
     font-weight: 700;
+
+    &:hover {
+    color: #d33682 !important;
+    text-decoration: none;
+    }
 }
 
 div.element-container:nth-child(2) > div:nth-child(1) > div:nth-child(1) > p {
@@ -15,11 +20,6 @@ div.element-container:nth-child(2) > div:nth-child(1) > div:nth-child(1) > p {
     font-weight: 650;
 }
 
-
-a:hover {
-    color: #d33682 !important;
-    text-decoration: none;
-}
 
 ul {
     list-style-type: none;
