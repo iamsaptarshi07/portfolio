@@ -16,6 +16,7 @@ Note: Render spins down a Free web service that goes 15 minutes without receivin
 
 **Deployment:** Docker
 
+**CI/CD:** Github Actions
 
 ## Screenshots
 ![Screenshot from 2024-04-01 01-50-20](https://github.com/iamsaptarshi07/portfolio/assets/52109778/d57a1c8b-f0ea-4cab-b2c7-ec38c5fbfc96)
