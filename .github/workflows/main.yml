@@ -2,7 +2,7 @@ name: DIGITAL CV DEPLOYMENT
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
   deploy:
