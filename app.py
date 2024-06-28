@@ -83,7 +83,7 @@ st.title("Skills")
 st.write("---")
 st.write(
     """
-- 👨‍💻 Programming: Python (Pandas,Scikit-learn,Numpy), C++ (Basic)
+- 👨‍💻 Programming: Python (Pandas,Scikit-learn,Numpy)
 - 💻 Linux
 - 🗄️ Git
 - 🫙 Docker
