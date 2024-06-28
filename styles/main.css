@@ -15,7 +15,9 @@ a {
     }
 }
 
-h1 {
+#saptarshi-mandal,
+#skills,
+#projects {
     text-decoration: none;
     color: white !important;
     font-weight: 700;
@@ -42,15 +44,21 @@ hr {
 header {visibility: hidden;}
 
 
-.st-emotion-cache-1wentix.e1nzilvr3 {
+/* .st-emotion-cache-1wentix.e1nzilvr3 {
     display: none; /* or block, inline-block, etc. */
-}
+ 
 
-.eyeqlp51.st-emotion-cache-1u2dcfn.ex0cdmw0 {
+/* .eyeqlp51.st-emotion-cache-1u2dcfn.ex0cdmw0 {
     display: none;
-}
+} */
 
-.st-emotion-cache-1trq0b1.e1vs0wn31 {
+/* .st-emotion-cache-1trq0b1.e1vs0wn31 {
+    display: none;
+} */
+
+#skills > span:nth-child(1) > a:nth-child(1) > svg:nth-child(1),
+#saptarshi-mandal > span:nth-child(1) > a:nth-child(1) > svg:nth-child(1),
+#projects > span:nth-child(1) > a:nth-child(1) > svg:nth-child(1) {
     display: none;
 }
 
