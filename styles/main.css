@@ -15,17 +15,18 @@ a {
     }
 }
 
-#saptarshi-mandal,
-#skills,
-#projects {
-    text-decoration: none;
-    color: white !important;
-    font-weight: 700;
+
+h1 {
+    font-family: Nunito;
 }
 
 div.element-container:nth-child(2) > div:nth-child(1) > div:nth-child(1) > p {
     font-style: italic;
     font-weight: 650;
+}
+
+h1 {
+    font-weight: 700;
 }
 
 
