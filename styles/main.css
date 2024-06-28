@@ -96,6 +96,8 @@ header {visibility: hidden;}
     display: none;
 }
 
-#saptarshi-mandal > div:nth-child(1) > a:nth-child(1) {
+#saptarshi-mandal > div:nth-child(1) > a:nth-child(1),
+#skills > div:nth-child(1) > a:nth-child(1),
+#projects > div:nth-child(1) > a:nth-child(1) {
     display: none;
 }
