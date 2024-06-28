@@ -95,3 +95,7 @@ header {visibility: hidden;}
 .st-emotion-cache-1trq0b1.e1vs0wn31 {
     display: none;
 }
+
+#saptarshi-mandal > div:nth-child(1) > a:nth-child(1) {
+    display: none;
+}
