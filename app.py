@@ -83,11 +83,11 @@ st.title("Skills")
 st.write("---")
 st.write(
     """
-- 👨‍💻 Programming: Python (Pandas,Scikit-learn,Numpy)
+- 👨‍💻 Programming: Python, Pandas, Scikit-learn, Numpy, PyTorch, Keras
 - 💻 Linux
 - 🗄️ Git
 - 🫙 Docker
-- 📊 Data Visualization
+- 📊 Data Visualization: Plotly, Matplotlib
 - ☁️ Cloud: Render
 """
 )
@@ -97,7 +97,7 @@ st.write(
 # ---- PROJECTS ----
 
 st.write("&nbsp;")  # This is puts a non breaking space between two sections
-st.title("Projects(Click the below names to go to respective project codebase)")
+st.title("Projects (Click the below names to go to respective project codebase)")
 st.write("---")
 for name, link in PROJECTS.items():
     st.write(f"[{name}]({link})")
