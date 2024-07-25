@@ -20,8 +20,8 @@ PAGE_TITLE = "Digital CV | Saptarshi Mandal"
 PAGE_ICON = ":wave:"
 NAME = "Saptarshi Mandal"
 DESCRIPTION = """
-I was born and brought up in Kolkata. I'm very passionate about learning new technologies,
-particularly machine learning, and I'm also interested in the stock market.
+Born and raised in Kolkata, I have a strong passion for learning new technologies,
+with a particular focus on machine learning. Additionally, I have a keen interest in the stock market.
 """
 EMAIL = "iamsaptarshi07@gmail.com"
 
