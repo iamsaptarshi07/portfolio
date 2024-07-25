@@ -20,7 +20,7 @@ PAGE_TITLE = "Digital CV | Saptarshi Mandal"
 PAGE_ICON = ":wave:"
 NAME = "Saptarshi Mandal"
 DESCRIPTION = """
-I was born and brought up in Kolkata. I'm very passionate about learning new technologies, 
+I was born and brought up in Kolkata. I'm very passionate about learning new technologies,
 particularly machine learning, and I'm also interested in the stock market.
 """
 EMAIL = "iamsaptarshi07@gmail.com"
@@ -97,7 +97,7 @@ st.write(
 # ---- PROJECTS ----
 
 st.write("&nbsp;")  # This is puts a non breaking space between two sections
-st.title("Projects")
+st.title("Projects(Click the below names to go to respective project codebase)")
 st.write("---")
 for name, link in PROJECTS.items():
     st.write(f"[{name}]({link})")
