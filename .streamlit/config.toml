@@ -4,7 +4,7 @@ primaryColor = "#d33682"
 
 # Background color for main content area
 # backgroundColor = "#002b36"
-backgroundColor = "#71604c"
+backgroundColor = "#29231d"
 
 # Background color used for sidebar and most interactive elements widgets
 secondaryBackgroundColor = "#586e75"
